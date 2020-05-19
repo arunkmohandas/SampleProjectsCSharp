@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VisualStudio\\SampleProjects\\Delegates\\Delegates\\Delegates.csproj",
+      "projectUniqueName": "D:\\VisualStudio\\SampleProjects\\SampleTest\\Delegates\\Delegates\\Delegates.csproj",
       "projectName": "Delegates",
-      "projectPath": "D:\\VisualStudio\\SampleProjects\\Delegates\\Delegates\\Delegates.csproj",
+      "projectPath": "D:\\VisualStudio\\SampleProjects\\SampleTest\\Delegates\\Delegates\\Delegates.csproj",
       "packagesPath": "C:\\Users\\marun\\.nuget\\packages\\",
-      "outputPath": "D:\\VisualStudio\\SampleProjects\\Delegates\\Delegates\\obj\\",
+      "outputPath": "D:\\VisualStudio\\SampleProjects\\SampleTest\\Delegates\\Delegates\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marun\\AppData\\Roaming\\NuGet\\NuGet.Config",

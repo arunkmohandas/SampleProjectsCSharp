@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "or3ACbIU/8W4iU7w3DVOjtRL8iqdQxJwn1HRKtRkOgGKkElxIlCrnjewz1psQ3Ey78uSClcdmmBkRhLEDkrD7w==",
+  "dgSpecHash": "iVP0k//zRT6SOoPQsI7rVWhSMozfD44ZEaRccBNUJnR+1V4TwoRBB0A2VnvMHTAfyDMnd1wJcpuEPa/6xO8gnw==",
   "success": true,
-  "projectFilePath": "D:\\VisualStudio\\SampleProjects\\Delegates\\Delegates\\Delegates.csproj",
+  "projectFilePath": "D:\\VisualStudio\\SampleProjects\\SampleTest\\Delegates\\Delegates\\Delegates.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
